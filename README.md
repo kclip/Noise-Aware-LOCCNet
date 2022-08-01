@@ -1,3 +1,4 @@
-# Code for the paper "Learning Quantum Entanglement Distillation with Noisy Classical Communications"
+# Code for the papers
 
-# Preprint of the paper available at https://arxiv.org/abs/2205.08561
+1) "Learning Quantum Entanglement Distillation with Noisy Classical Communications" ( https://arxiv.org/abs/2205.08561 )
+2) "Learning Distributed Quantum State Discrimination with Noisy Classical Communications" ( https://arxiv.org/abs/2207.11354 ) 
